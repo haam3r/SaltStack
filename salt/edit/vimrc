@@ -1,0 +1,7 @@
+" haam3r
+" Source https://github.com/dougblack/dotfiles/blob/master/.vimrc
+syntax enable
+set tabstop=4
+set expandtab
+set number
+

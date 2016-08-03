@@ -1,0 +1,8 @@
+Welcome to {{ grains['id'] }}!
+#########################################################
+#                AUTHORIZED USE ONLY                    #
+#                                                       #
+#    Managed by SaltStack, local changes might be lost  #
+#          Do not forget to commit changes!             #
+#########################################################
+
