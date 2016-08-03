@@ -1,0 +1,12 @@
+[submodule "formulas/openssh-formula"]
+	path = formulas/openssh-formula
+	url = https://github.com/haam3r/openssh-formula.git
+[submodule "salt/edit/vim/bundle/vim-sensible"]
+	path = salt/edit/vim/bundle/vim-sensible
+	url = https://github.com/tpope/vim-sensible.git
+[submodule "salt/edit/vim/bundle/vim-yaml"]
+	path = salt/edit/vim/bundle/vim-yaml
+	url = https://github.com/stephpy/vim-yaml.git
+[submodule "salt/edit/vim/bundle/salt-vim"]
+	path = salt/edit/vim/bundle/salt-vim
+	url = https://github.com/saltstack/salt-vim.git
